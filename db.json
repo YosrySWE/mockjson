@@ -1,4 +1,5 @@
-[
+{
+	"result":[
   {
     "id": 1,
     "type": "VIDEO",
@@ -22,12 +23,6 @@
     "type": "VIDEO",
     "url": "https://storage.googleapis.com/exoplayer-test-media-1/mp4/frame-counter-one-hour.mp4",
     "name": "Video 4"
-  },
-  {
-    "id": 5,
-    "type": "PDF",
-    "url": "https://www.cs.cmu.edu/afs/cs.cmu.edu/user/gchen/www/download/java/LearnJava.pdf",
-    "name": "PDF 5"
   }
- 
-]
+],"status_code": 200
+}
