@@ -11,6 +11,18 @@
     "type": "VIDEO",
     "url": "https://bestvpn.org/html5demos/assets/dizzy.mp4",
     "name": "Video 2"
+  },
+  {
+    "id": 3,
+    "type": "PDF",
+    "url": "(https://kotlinlang.org/docs/kotlin-reference.pdf",
+    "name": "PDF 3"
+  },
+  {
+    "id": 4,
+    "type": "VIDEO",
+    "url": "https://storage.googleapis.com/exoplayer-test-media-1/mp4/frame-counter-one-hour.mp4",
+    "name": "Video 4"
   }
 ],"status_code": 200
 }
